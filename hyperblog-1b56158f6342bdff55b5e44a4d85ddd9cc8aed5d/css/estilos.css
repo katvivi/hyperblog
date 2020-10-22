@@ -1,10 +1,6 @@
 body
 {
-<<<<<<< HEAD
     color: blue;
-=======
-    color: blueviolet;
->>>>>>> cabecera
     text-align: center;
     font-family: "Arial";
     font-size: 16px;
@@ -23,7 +19,7 @@ body
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
-    font-weight: normal;
+    font-weight: bolder;
     font-size: 0.8em;
 
 }
@@ -31,7 +27,7 @@ body
 {
     width: 70%;
     padding: 1em;
-    text-align: left;
+    text-align: center;
     border: 3px solid rgb(211, 47, 202);
     margin: 0 auto;
 }
